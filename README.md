@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, this is **Andrii Pyrih**<br>
+
+If you have any questions, please contact me.
 
 <!--
 **pyrih/pyrih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
